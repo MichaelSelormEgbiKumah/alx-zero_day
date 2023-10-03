@@ -1,1 +1,1 @@
-My first readme
+Changing Readme message for Collaboration: be up to date project
